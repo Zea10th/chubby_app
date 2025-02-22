@@ -1,6 +1,6 @@
 # Terms of Service for ChubbyApp
 
-**Effective Date:** Feb 31, 2025
+**Effective Date:** Feb 22, 2025
 
 Welcome to **ChubbyApp** ("the Application"). By using this Application, you agree to the following Terms of Service ("Terms"). If you do not agree with these Terms, please refrain from using the Application.
 
@@ -18,7 +18,7 @@ We reserve the right to update or modify these Terms at any time. Continued use 
 - Any attempt to exploit, modify, or interfere with the Application's functionality is prohibited.
 
 ## 4. User Data and Privacy
-- We may collect and store limited data to enhance user experience. Our [Privacy Policy](#) details how we handle your data.
+- We may collect and store limited data to enhance user experience. Our [Privacy Policy](https://github.com/Zea10th/chubby_app/blob/main/Privacy_Policy.md) details how we handle your data.
 - We do not sell, share, or misuse user data.
 
 ## 5. Intellectual Property
